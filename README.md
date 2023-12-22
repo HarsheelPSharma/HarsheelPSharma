@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarsheelPSharma
 - 👀 I’m interested in developing Websites and solving DSA problems
 - 🌱 I’m currently learning Web Development(Frontend)
-- 💞️ I’m looking to collaborate on a backend person to make an innovative project.
+- 💞️ I am seeking collaboration with a backend developer to embark on an innovative project.
 - 📫 How to reach me
 - Linkedin Profile- www.linkedin.com/in/harsheel-sharma-61a73628b
 - Email id-sharmaharsheel@gmail.com
